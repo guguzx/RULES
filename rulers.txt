@@ -1,2 +1,3 @@
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,axiom.trade
+DOMAIN-SUFFIX,unisat.io
