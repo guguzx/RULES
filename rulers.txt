@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,axiom.trade
 DOMAIN-SUFFIX,unisat.io
+DOMAIN-SUFFIX,memego.ai
 
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
