@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,axiom.trade
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,memego.ai
 DOMAIN-SUFFIX,unisat.io
-
+PROCESS-NAME,/Applications/Binance.app/,"🇸🇬 Singapore 01"
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
 DOMAIN,apple.comscoreresearch.com
