@@ -1,8 +1,7 @@
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,axiom.trade
-DOMAIN-SUFFIX,unisat.io
-DOMAIN-SUFFIX,memego.ai
-DOMAIN-SUFFIX,unisat.io
+[Rule]
+DOMAIN-SUFFIX,okx.com,PROXY
+DOMAIN-SUFFIX,axiom.trade,PROXY
+DOMAIN-SUFFIX,unisat.io,PROXY
+DOMAIN-SUFFIX,memego.ai,PROXY
 PROCESS-NAME,/Applications/Binance.app/,DIRECT
 PROCESS-NAME,/Applications/Cursor.app/,"🇸🇬 新加坡 01 "
-
